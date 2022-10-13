@@ -1,11 +1,11 @@
-<h1>E aí, galera 👋, me chamo Gabriel Souza</h1>
+<h1>E aí galera 👋, sou Gabriel Souza</h1>
 <h3>Sou um desenvolvedor de sistemas de Maringá no Paraná.</h3>
 
-- 📫 Posso ser contatado em **eu@gabrielsouza.dev.br** e meus projetos estão disponíveis em [https://gabrielsouza.dev.br](gabrielsouza.dev.br) e aqui no GithUb.
+- Posso ser contatado em **eu@gabrielsouza.dev.br** e meus projetos estão disponíveis em [https://gabrielsouza.dev.br](gabrielsouza.dev.br) e aqui no GitHub.
 
-- 🌱 Tenho estudado **engenharia da computação e sou técnico em informática desde 2015.** Um pouco mais sobre minha jornada pode ser encontrado em [https://www.linkedin.com/in/gabrielsdesouza/](https://www.linkedin.com/in/gabrielsdesouza/).
+- Tenho estudado **engenharia da computação e sou técnico em informática desde 2015.** Um pouco mais sobre minha jornada pode ser encontrado em [https://www.linkedin.com/in/gabrielsdesouza/](https://www.linkedin.com/in/gabrielsdesouza/).
 
-- 📝 Eu regularmente escrevo artigos e snippets no meu blog e espaço de conteúdo [https://codigoeconteudo.com.br](codigoeconteudo.com.br)
+- Eu regularmente escrevo artigos e snippets no meu blog e espaço de conteúdo [https://codigoeconteudo.com.br](codigoeconteudo.com.br)
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
