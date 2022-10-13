@@ -5,11 +5,11 @@
 
 - 💬 Me pergunte sobre projetos que utilizam **PHP, JS, HTML e CSS.**
 
-- 👨‍💻 Meus projetos estão disponíveis em [gabrielsouza.dev.br](gabrielsouza.dev.br) e aqui no GithUb.
+- 👨‍💻 Meus projetos estão disponíveis em [https://gabrielsouza.dev.br](gabrielsouza.dev.br) e aqui no GithUb.
 
 - 🌱 Tenho estudado **engenharia da computação e sou técnico em informática desde 2015.**
 
-- 📝 Eu regularmente escrevo artigos e snippets no meu blog e espaço de conteúdo [codigoeconteudo.com.br](codigoeconteudo.com.br)
+- 📝 Eu regularmente escrevo artigos e snippets no meu blog e espaço de conteúdo [https://codigoeconteudo.com.br](codigoeconteudo.com.br)
 
 - 📄 Um pouco mais sobre minha jornada pode ser encontrado em [https://www.linkedin.com/in/gabrielsdesouza/](https://www.linkedin.com/in/gabrielsdesouza/)
 
