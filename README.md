@@ -10,4 +10,4 @@
 
 <h4 align="left">Habilidades com:</h4> 
 
-AWS, PHP, MySQL, Postgres, Bootstrap, HTML, CSS, JS, Linux, Apache e CodeIgniter.
+AWS, PHP, SQL, MySQL, SQL Server, MariaDB, Postgres, Bootstrap, HTML, CSS, JS, Linux, Apache e CodeIgniter.
