@@ -1,5 +1,5 @@
 <h1>E aí galera 👋, sou Gabriel Souza</h1>
-<h3>Sou um desenvolvedor de sistemas de Maringá no Paraná.</h3>
+<h3>Um desenvolvedor de sistemas de Maringá no Paraná.</h3>
 
 - Meus projetos estão disponíveis em [gabrielsouza.dev.br](https://gabrielsouza.dev.br) e aqui no GitHub.
 
